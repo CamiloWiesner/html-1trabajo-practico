@@ -1,0 +1,37 @@
+.titulo1{
+    color: greenyellow;
+ font-size: 70px;
+ font-family: Arial, Helvetica, sans-serif;
+ border-bottom: 1px solid white; 
+ padding-bottom: 5px; 
+ margin-bottom: 5px; 
+ margin-left: 20px;
+}
+
+.titulo2{
+    color: greenyellow;
+ font-size: 40px;
+ font-family: Arial, Helvetica, sans-serif;
+ border-bottom: 1px solid white; 
+ padding-bottom: 5px; 
+ margin-bottom: 5px; 
+ margin-left: 30px; 
+}
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto{
+  
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ul li{
+  
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
